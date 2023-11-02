@@ -1,0 +1,173 @@
+---------------------------PREUBA Nº1---------------------------
+
+run:
+Ingresa la fila 1 de ADN (debe contener 6 letras de A, C, G o T):
+ATGCGA
+Ingresa la fila 2 de ADN (debe contener 6 letras de A, C, G o T):
+CAGTGC
+Ingresa la fila 3 de ADN (debe contener 6 letras de A, C, G o T):
+TTATGT
+Ingresa la fila 4 de ADN (debe contener 6 letras de A, C, G o T):
+AGAAGG
+Ingresa la fila 5 de ADN (debe contener 6 letras de A, C, G o T):
+CCCCTA
+Ingresa la fila 6 de ADN (debe contener 6 letras de A, C, G o T):
+TCACTG
+
+Matriz de ADN: 
+
+A T G C G A 
+C A G T G C 
+T T A T G T 
+A G A A G G 
+C C C C T A 
+T C A C T G 
+
+Es Mutante: true
+
+BUILD SUCCESSFUL 
+
+---------------------------PREUBA Nº2---------------------------
+
+run:
+Ingresa la fila 1 de ADN (debe contener 6 letras de A, C, G o T):
+ATGCGA
+Ingresa la fila 2 de ADN (debe contener 6 letras de A, C, G o T):
+CAGTGC
+Ingresa la fila 3 de ADN (debe contener 6 letras de A, C, G o T):
+TTGTAT
+Ingresa la fila 4 de ADN (debe contener 6 letras de A, C, G o T):
+AGAAGG
+Ingresa la fila 5 de ADN (debe contener 6 letras de A, C, G o T):
+CCCCTA
+Ingresa la fila 6 de ADN (debe contener 6 letras de A, C, G o T):
+TCACTG
+
+Matriz de ADN: 
+
+A T G C G A 
+C A G T G C 
+T T G T A T 
+A G A A G G 
+C C C C T A 
+T C A C T G 
+
+Es Mutante: false
+
+BUILD SUCCESSFUL
+
+---------------------------PREUBA Nº3---------------------------
+
+run:
+Ingresa la fila 1 de ADN (debe contener 6 letras de A, C, G o T):
+AAGTCA
+Ingresa la fila 2 de ADN (debe contener 6 letras de A, C, G o T):
+TTGCAT
+Ingresa la fila 3 de ADN (debe contener 6 letras de A, C, G o T):
+GCAGTG
+Ingresa la fila 4 de ADN (debe contener 6 letras de A, C, G o T):
+TGATGC
+Ingresa la fila 5 de ADN (debe contener 6 letras de A, C, G o T):
+AGTCAG
+Ingresa la fila 6 de ADN (debe contener 6 letras de A, C, G o T):
+ATAGTA
+
+Matriz de ADN: 
+
+A A G T C A 
+T T G C A T 
+G C A G T G 
+T G A T G C 
+A G T C A G 
+A T A G T A 
+
+Es Mutante: true
+
+BUILD SUCCESSFUL
+
+---------------------------PREUBA Nº4---------------------------
+
+run:
+Ingresa la fila 1 de ADN (debe contener 6 letras de A, C, G o T):
+AAGTCA
+Ingresa la fila 2 de ADN (debe contener 6 letras de A, C, G o T):
+TTGCAT
+Ingresa la fila 3 de ADN (debe contener 6 letras de A, C, G o T):
+GCAGTG
+Ingresa la fila 4 de ADN (debe contener 6 letras de A, C, G o T):
+TGATCC
+Ingresa la fila 5 de ADN (debe contener 6 letras de A, C, G o T):
+AGCCAG
+Ingresa la fila 6 de ADN (debe contener 6 letras de A, C, G o T):
+AGTCAG
+
+Matriz de ADN: 
+
+A A G T C A 
+T T G C A T 
+G C A G T G 
+T G A T C C 
+A G C C A G 
+A G T C A G 
+
+Es Mutante: false
+
+BUILD SUCCESSFUL
+
+---------------------------PREUBA Nº5---------------------------
+
+run:
+Ingresa la fila 1 de ADN (debe contener 6 letras de A, C, G o T):
+ACTACG
+Ingresa la fila 2 de ADN (debe contener 6 letras de A, C, G o T):
+CGTATG
+Ingresa la fila 3 de ADN (debe contener 6 letras de A, C, G o T):
+TCTGCA
+Ingresa la fila 4 de ADN (debe contener 6 letras de A, C, G o T):
+AGCCGT
+Ingresa la fila 5 de ADN (debe contener 6 letras de A, C, G o T):
+TGCCAT
+Ingresa la fila 6 de ADN (debe contener 6 letras de A, C, G o T):
+ACCTGG
+
+Matriz de ADN: 
+
+A C T A C G 
+C G T A T G 
+T C T G C A 
+A G C C G T 
+T G C C A T 
+A C C T G G 
+
+Es Mutante: true
+
+BUILD SUCCESSFUL
+
+---------------------------PREUBA Nº6---------------------------
+
+run:
+Ingresa la fila 1 de ADN (debe contener 6 letras de A, C, G o T):
+ACTACG
+Ingresa la fila 2 de ADN (debe contener 6 letras de A, C, G o T):
+CGTATG
+Ingresa la fila 3 de ADN (debe contener 6 letras de A, C, G o T):
+TCTGTA
+Ingresa la fila 4 de ADN (debe contener 6 letras de A, C, G o T):
+AGCTGT
+Ingresa la fila 5 de ADN (debe contener 6 letras de A, C, G o T):
+TGACCT
+Ingresa la fila 6 de ADN (debe contener 6 letras de A, C, G o T):
+CCCTGG
+
+Matriz de ADN: 
+
+A C T A C G 
+C G T A T G 
+T C T G T A 
+A G C T G T 
+T G A C C T 
+C C C T G G 
+
+Es Mutante: false
+
+BUILD SUCCESSFUL
